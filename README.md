@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## I'm currently a student pursuing a degree in Computer Science!
+- I’m currently working on a receipt reader that can automatically read your purchases and log the items you've bought for better financial tracking!
+- I’m currently learning React
+- Fun Facts: Giant Pandas eat 14 hours a day 🐼🎋
 <!--
 **dennisysj/dennisysj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
