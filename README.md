@@ -30,7 +30,7 @@ And I code a little less than that… maybe.
 ## 🤝 Let’s Connect
 - 🌐 [dennisysj.tech](https://www.dennisysj.tech)
 - 📧 dennisysj@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/dennisysj)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dennisysj/)
 - 🧠 Always down to chat projects, collabs, or just tech in general!
 ---
 
