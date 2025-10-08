@@ -19,9 +19,11 @@
 
 ## 💡 Past Projects
 - 📸 **Receipt Reader App** — Reads your shopping receipts and logs items automatically for smarter financial tracking
-- 🛰️ **CampusLens AR** – Persistent, location-anchored AR for campus engagement  
-- 🧮 **To-Do Calculator** – An interactive calculator with memory and looping  
-- 🌍 **Python Workshop Starter Kit** – A friendly intro-to-Python repo for beginners  
+- 🌍 **Python Workshop Starter Kit** – A friendly intro-to-Python repo for beginners
+- ⛷️ **Ski Ride Finder - an app to find others going up to the mountains for a ski trip! You can join them to save on gas!
+- 🏎️ **Vancouver Driving School - A fun game with elements from driving in vancouver, dodge reckless drivers, and survive random events! (ChaosHacks 2024, Awarded Judge's and People's Choice)
+
+
 
 ## ☕ Fun Fact
 Giant pandas eat for about 14 hours a day 🐼🎋  
