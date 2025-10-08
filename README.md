@@ -1,4 +1,4 @@
-[Campus Lens Oct 2025.pdf](https://github.com/user-attachments/files/22784445/Campus.Lens.Oct.2025.pdf)# 👋 Hi, I’m Dennis!
+# 👋 Hi, I’m Dennis!
 
 🎓 A Computer Science student thats:
 ## 🚧 Currently Building
