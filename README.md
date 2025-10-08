@@ -23,12 +23,6 @@
 - ⛷️ **Ski Ride Finder - an app to find others going up to the mountains for a ski trip! You can join them to save on gas!
 - 🏎️ **Vancouver Driving School - A fun game with elements from driving in vancouver, dodge reckless drivers, and survive random events! (ChaosHacks 2024, Awarded Judge's and People's Choice)
 
-
-
-## ☕ Fun Fact
-Giant pandas eat for about 14 hours a day 🐼🎋  
-And I code a little less than that… maybe.
-
 ## 🤝 Let’s Connect
 - 🌐 [dennisysj.tech](https://www.dennisysj.tech)
 - 📧 dennisysj@gmail.com
