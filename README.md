@@ -5,6 +5,7 @@
 - 🛰️ **CampusLens AR** – Persistent, location-anchored AR for campus engagement, Here's a short presentation of it!: [Campus Lens Oct 2025.pdf](https://github.com/user-attachments/files/22784448/Campus.Lens.Oct.2025.pdf)
 - ⚛️ Learning **React** to build interactive and scalable web apps
 - 🌐 Running [my portfolio site](https://www.dennisysj.tech) – check it out!
+- 🌍 **Python Workshop Starter Kit** – A friendly intro-to-Python repo used for teaching beginners! (If your interested email me and I'll give you information on how to attend this workshop, it's hosted every week on tuesday :D)
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Python, Java, C++  
@@ -19,7 +20,6 @@
 
 ## 💡 Past Projects
 - 📸 **Receipt Reader App** — Reads your shopping receipts and logs items automatically for smarter financial tracking
-- 🌍 **Python Workshop Starter Kit** – A friendly intro-to-Python repo for beginners
 - ⛷️ **Ski Ride Finder** - an app to find others going up to the mountains for a ski trip! You can join them to save on gas!
 - 🏎️ **Vancouver Driving School** - A fun game with elements from driving in vancouver, dodge reckless drivers, and survive random events! (ChaosHacks 2024, Awarded Judge's and People's Choice)
 
