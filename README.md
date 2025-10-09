@@ -13,10 +13,10 @@
 **Backend:** Node.js, Express, REST APIs  
 **Database:** PostgreSQL, Supabase, MongoDB (basics)  
 **Tools:** Git & GitHub, Postman, VS Code, Figma
-
-## 🌱 Always Growing
-- Interested in **WebAR**, **API development**, and **creative dev tools**
+**Others**
+- **WebAR**, **API development**, and **creative dev tools**
 - Exploring **DevOps**, **deployment pipelines**, and **networking basics**
+- Database Systems
 
 ## 💡 Past Projects
 - 📸 **Receipt Reader App** — Reads your shopping receipts and logs items automatically for smarter financial tracking
