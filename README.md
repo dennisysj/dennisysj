@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dennis!
 
-🎓 A Computer Science student thats:
+🎓 A Computer Science student that is:
 ## 🚧 Currently Building
 - 🛰️ **CampusLens AR** – Persistent, location-anchored AR for campus engagement, Here's a short presentation of it!: [Campus Lens Oct 2025.pdf](https://github.com/user-attachments/files/22784448/Campus.Lens.Oct.2025.pdf)
 - ⚛️ Learning **React** to build interactive and scalable web apps
@@ -10,13 +10,9 @@
 ## 🛠️ Tech Stack
 **Languages:** JavaScript, Python, Java, C++  
 **Frontend:** HTML, CSS, React (learning), A-Frame, AR.js, WebXR (learning).
-**Backend:** Node.js, Express, REST APIs  
-**Database:** PostgreSQL, Supabase, MongoDB (basics)  
-**Tools:** Git & GitHub, Postman, VS Code, Figma
-**Others**
-- **WebAR**, **API development**, and **creative dev tools**
-- Exploring **DevOps**, **deployment pipelines**, and **networking basics**
-- Database Systems
+**Backend:** Node.js, Express
+**Database:** PostgreSQL, Supabase, MongoDB - Both Relational and Unrelational types of databases
+**Tools:** Git & GitHub, Postman(Api Manager), VS Code, Figma
 
 ## 💡 Past Projects
 - 📸 **Receipt Reader App** — Reads your shopping receipts and logs items automatically for smarter financial tracking
